@@ -1,5 +1,7 @@
 groq
+requests
+Pillow
 SpeechRecognition
 pyttsx3
-PyAudio
-numpy
+pyaudio
+python-dotenv
